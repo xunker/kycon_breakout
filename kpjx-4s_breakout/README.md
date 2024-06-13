@@ -1,10 +1,10 @@
 Kycon© KPJX-4S Connector Breakout
 =================================
 
-![KPJS-4S board front (render)](images/kpjs-4s_front.jpg)
-![KPJS-4S board back (render)](images/kpjs-4s_back.jpg)
+![KPJX-4S board front (render)](images/kpjx-4s_front.jpg)
+![KPJX-4S board back (render)](images/kpjx-4s_back.jpg)
 
-[Schematic](images/kjs-4s_breakout.pdf)
+[Schematic](images/kpjx-4s_breakout.pdf)
 
 Mounting holes are M2.2.
 
