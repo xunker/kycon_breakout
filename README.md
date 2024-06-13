@@ -1,7 +1,7 @@
 Breakout boards for Kycon© Connectors
 =====================================
 
-DETAILS TBA
+[KPJX-4S](kpjx-4s_breakout/) - Configurable Breakout Board for KJPS-4S and 4S-S.
 
 ##### License and trademarks
 
